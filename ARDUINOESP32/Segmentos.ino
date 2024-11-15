@@ -34,7 +34,7 @@ void loop() {
     lastDebounceTime = millis();
     count = (count + 1); // Incrementar y reiniciar el contador al llegar a 9999
   }
-  if(count=1000){
+  if(count == 1000){
     count = 0;
   }
   lastButtonState = buttonState;
@@ -57,3 +57,4 @@ void loop() {
   sevseg.setNumber(count); // Configura el número que se mostrará en el display
   sevseg.refreshDisplay(); // Must run repeatedly
 }
+
