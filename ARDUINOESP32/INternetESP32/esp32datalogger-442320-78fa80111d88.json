@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "esp32datalogger-442320",
+  "private_key_id": "78fa80111d8849049252d07b8b232b058b41ff2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpPeUk1VZSgyFM\nTnDKYEvIf1LRvZqYxkJUlQN3dTFrJT5frPkFv1Nc3Vu7GNtS/Bt9SsQ3uzgs2SNq\nMit0rY0+ch1VVVPg30HT5TEe4xIPGAzyhvt8TAKCuadGwFpkhwR1E1i99O2tvhYM\nd87Zo185MFHFVCMlDO9bVwVfl6fEI9lJNS+XhbPgXY/bY5Ix+9ozVSrdYvz3FR9k\n6zfeQYzhkWtJ0IcFmUXEjAfMcCaE7rj65UGqW6FVO9OP/IQhb50olgrrWW+p4KGa\nsLWamW4rTdyKyVMT2cRuPQaitr4pFIpJ4aI7ingjNUD7yTcBmZPckc0sseFgwyvX\ntSwOj+xNAgMBAAECgf8ws0mST9GHQjSoFepe/KwnWybPNBWd4MSK56vCXvbZiN4U\nqgb+oGUHVAC8K2rxdkUdc2ZYozHcYJ9675+Rnl9b7iUtaQsPVS9Gyleti6n8A0UL\n2naDo1vAQlbgWnmoc9x/KWdf7MXNjpAfBlrU8IN2RsaWV0pwXvMsVYjg+RhNrYtj\nRFJyNY4WIgeI2CknIbOF9GyoczNGPF2uW20kX8Sv9WRzrGXUGLbnx6t4/rvAmwvP\n9NNihhUySUFfkWyeEOtFSM3MMTGVt+XAjxyNvp6xOLv+9EnsBOx6XnwOZN+BTYRf\nZwvuDCsvNsBgfV2JOKs6Ys/AP1ZX9ZW6m08tYUECgYEA0E0tfZ9ioo0FcuzinCrb\nn+J7tn32PUEcF2PF1CVl3je02KGznXnEHHN6gf1PbryVetSNIj7lbDOe9RPYEZ7h\ncOMylV/Xl9NDQ840CT4i/ASTktWO9aTLRzljhnZxGTNBRCedYjydcoK6ImnnxgCz\njMXjLJb/ba0tt3hOyeGLJ1ECgYEAz/8AmFL14x8kvfFCTztlFCFkpA2d5JQF3W7+\nyj2bH/hr7w76rwqxroXLLg2vo89HaLchx1swPQ3L81xSU79nPaKCeeS3KIp3x+Ri\ngRwYA78GaotzS1SAi7IYLsRwv/QORhpv+C4XigiQMV4S/RO10o72TwXasDMh3bWc\nsbInLj0CgYBtwx1jgudQzIrAgn7u186fM5MJGNr2cCbDVHncTlCdhjEvrhWdt5pV\ne6xkbvy6V3lVHke4cfgmyhTLA8fpkRUujSoMeFJ82IArbK8S58E7l5XD2/DXFB1h\nzKXbJvJ12wJbTZyrNVGqE6TNmYzeU2RJm8UXrAGw436hnS23R7gx4QKBgQCWuFA0\nERnA5RZ41VSZmY6bUb9d6cgalPDTDtVus8mvFxMPfilFolgzARzEWIKID3HNfbbq\ngTepZk/+H05BBZfIX/RwY74dkIlPvj1rFXKJdGkv17FKSweDMyC28v5I+o9FWW79\nxlikW6QxQdw8q4W7+ICfrrxTphnKUQok8dXWeQKBgQDG58tZ8LyNu1/8bxier+y5\nYW1WiVjTsYQ1ZKataB5qO+jz/UwzYq1asry19282D7RFP9Pbo2m5coKLUdBK2KFt\nWhL0bNY2qWPozP0GxZiIsxlWWyV7I2rYGsrGLPJI1M69Qf4K9/PHLWaAkCE7nsq8\nd9OqJ9mZwGerZUi5nw6xWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "esp32data@esp32datalogger-442320.iam.gserviceaccount.com",
+  "client_id": "103490751697755857166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/esp32data%40esp32datalogger-442320.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
