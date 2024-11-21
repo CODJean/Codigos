@@ -1,9 +1,9 @@
 #include <Wire.h>
+#include <Arduino.h>
 #include <SPI.h>
 #include "time.h"
 #include <ESP_Google_Sheet_Client.h>
 #include "BluetoothSerial.h"
-#include <esp_wifi.h>
 #define DEBUG_ESP_WIFI
 
 BluetoothSerial SerialBT;
@@ -132,4 +132,3 @@ void tokenStatusCallback(TokenInfo info) {
     } else {
         GSheet.printf("Token info: type = %s, status = %s\n", GSheet.getTokenType(info).c_str(), GSheet.getTokenStatus(info).c_str());
     }
-}
